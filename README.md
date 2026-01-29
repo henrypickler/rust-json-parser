@@ -9,7 +9,7 @@ Features
 
 - Supports parsing JSON objects and arrays.
 - Recognizes strings, numbers (decimal and negative), booleans (`true` / `false`) and `null`.
-- Returns a simple AST (Abstract Syntax Tree) represented by the `JsonType` enum.
+- Returns data as defined by the `JsonType` enum (includes dictionaries, arrays, int/floats, bool and nulls).
 
 Limitations
 
